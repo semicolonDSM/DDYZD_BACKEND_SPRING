@@ -35,7 +35,7 @@ dependencies {
 
     implementation 'com.google.firebase:firebase-admin:7.3.0'
 
-    implementation group: 'org.springdoc', name: 'springdoc-openapi-ui', version: '1.5.9'
+    implementation group: 'org.springdoc', name: 'springdoc-openapi-ui', version: '1.5.10'
 
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testImplementation 'com.h2database:h2'
